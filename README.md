@@ -1,7 +1,9 @@
 # delta-demo
 
-# Teacher 
+## Teacher
+
 shradha Khapra
 
-# student 
+## student
+
 Delta student
