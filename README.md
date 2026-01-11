@@ -4,6 +4,3 @@
 
 shradha Khapra
 
-## student
-
-Delta student
